@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course. In addition
+  to the problems from the course textbook, some problem sets also include corrections
+  or revisions of problems or additional problems.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
